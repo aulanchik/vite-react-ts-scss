@@ -15,7 +15,7 @@ importers:
         specifier: ^19.0.0
         version: 19.0.0(react@19.0.0)
       sass:
-        specifier: ^1.83.1
+        specifier: ^1.83.4
         version: 1.83.4
     devDependencies:
       '@types/react':
